@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1927
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "updat.NET", "updat.NET\updat.NET.csproj", "{5E66CE6D-1B7A-478F-8E65-A5EC148A4999}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E66CE6D-1B7A-478F-8E65-A5EC148A4999}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E66CE6D-1B7A-478F-8E65-A5EC148A4999}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E66CE6D-1B7A-478F-8E65-A5EC148A4999}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E66CE6D-1B7A-478F-8E65-A5EC148A4999}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFB0D03F-51DB-409B-9985-6AD7D12F9894}
+	EndGlobalSection
+EndGlobal
